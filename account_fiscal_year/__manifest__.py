@@ -1,13 +1,15 @@
 # Author: Damien Crier
 # Copyright 2016 Camptocamp SA
+# Copyright 2018 Lorenzo Battistini <https://github.com/eLBati>
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
 {
     'name': 'Account Fiscal Year',
-    'version': '11.0.1.0.0',
+    'version': '12.0.1.0.0',
+    'development_status': 'Production/Stable',
     'category': 'Accounting',
     'author': 'Camptocamp SA,'
               'Odoo Community Association (OCA)',
-    'website': 'http://www.camptocamp.com',
+    'website': 'https://github.com/OCA/account-financial-tools',
     'depends': [
         'account',
         'date_range'
